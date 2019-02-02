@@ -1,19 +1,19 @@
-# Meu Candidato - News Scraper
+# Meu Candidato Scraper
 
-Projeto voltado para raspagem de metadados de notícias de grandes portais de notícias e blogs, voltados para política.
+Projeto voltado para raspagem de várias fontes de dados dos candidatos registrados no TSE
 
 ## Instalação
 
 1. Faça o checkout do projeto:
 
 ```shell
-$ git clone https://github.com/meucandidato/news-scraper.git
+$ git clone https://github.com/meucandidato/scraper.git meucandidato-scraper
 ```
 
 2. Crie o ambiente virtual e instale as dependências:
 
 ```shell
-$ cd news-scraper
+$ cd meucandidato-scraper
 $ python3 -m venv .venv
 ```
 
