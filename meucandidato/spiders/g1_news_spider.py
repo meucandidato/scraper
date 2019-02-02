@@ -8,7 +8,7 @@ from datetime import timedelta, datetime
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
 
-from news.items import NewsItem
+from meucandidato.items import NewsItem
 
 
 class G1NewsSpider(CrawlSpider):

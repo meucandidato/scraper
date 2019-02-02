@@ -8,7 +8,7 @@ from urllib.parse import quote
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
 
-from news.items import NewsItem
+from meucandidato.items import NewsItem
 
 
 class FolhaNewsSpider(CrawlSpider):
